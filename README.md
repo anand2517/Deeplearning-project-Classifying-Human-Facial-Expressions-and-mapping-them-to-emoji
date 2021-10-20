@@ -1,4 +1,4 @@
-# Deeplearning-project-Classifying-Human-Facial-Expressions-and-mapping-them-to-emoji
+# Mini_Project -Deeplearning-project-Classifying-Human-Facial-Expressions-and-mapping-them-to-emoji
 
 Deep learning is a very popular method for facial expression recognition and classification. In
 that we have used Convolutional neural networks (CNN) for facial expression recognition and
