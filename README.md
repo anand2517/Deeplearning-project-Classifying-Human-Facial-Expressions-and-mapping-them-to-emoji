@@ -1,6 +1,6 @@
 # Mini_Project -Deeplearning-project-Classifying-Human-Facial-Expressions-and-mapping-them-to-emoji
 
-#Team members 
+# Team members 
 T. Umesh anand babu, 18BCS105
 M.Venkata kalyan babu, 18BCS049
 G. Jagan Mohan Reddy, 18BCS028
