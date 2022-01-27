@@ -1,10 +1,10 @@
 # Mini_Project -Deeplearning-project-Classifying-Human-Facial-Expressions-and-mapping-them-to-emoji
 
 # Team members 
-T. Umesh anand babu, 18BCS105
-M.Venkata kalyan babu, 18BCS049
-G. Jagan Mohan Reddy, 18BCS028
-Y. Mokshith, 18BCS112
+T. Umesh anand babu(18BCS105),
+M.Venkata kalyan babu (18BCS049),
+G. Jagan Mohan Reddy (18BCS028),
+Y. Mokshith (18BCS112),
 
 Deep learning is a very popular method for facial expression recognition and classification. In
 that we have used Convolutional neural networks (CNN) for facial expression recognition and
